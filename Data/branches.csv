@@ -1,0 +1,11 @@
+branch_id,branch_name,city,state,opening_date
+1,"Mumbai Central Store",Mumbai,Maharashtra,2015-03-15
+2,"Delhi Connaught Store",Delhi,Delhi,2016-04-20
+3,"Bengaluru MG Road Store",Bengaluru,Karnataka,2017-05-25
+4,"Hyderabad Hitech Store",Hyderabad,Telangana,2018-06-30
+5,"Chennai T-Nagar Store",Chennai,"Tamil Nadu",2019-07-10
+6,"Kolkata Park Street Store",Kolkata,"West Bengal",2020-08-15
+7,"Pune Camp Store",Pune,Maharashtra,2021-09-20
+8,"Ahmedabad CG Road Store",Ahmedabad,Gujarat,2015-10-25
+9,"Jaipur Pink City Store",Jaipur,Rajasthan,2016-11-30
+10,"Kochi Marine Drive Store",Kochi,Kerala,2017-12-05
